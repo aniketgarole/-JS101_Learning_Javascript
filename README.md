@@ -1,1 +1,1 @@
-# -JS101_Learning_Javascript
+I have made this repository to practice git
